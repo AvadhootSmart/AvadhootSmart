@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing Full Stack Web Applications<br>🤝 I’m looking to Collaborate with people who want do develop a FullStack Application<br>🌱 I’m currently learning about Data Structures and Algorithms <br>💬 Ask me about React, Express, NodeJs, C++<br>
+🔭 I’m currently working on Developing Full Stack Web Applications using MERN<br>🤝 I’m looking to Collaborate with people who want do develop a FullStack Application<br>🌱 I’m currently learning about Data Structures and Algorithms <br>💬 Ask me about React, Express, NodeJs, C++<br>
 
 
 ## 🌐 Socials:
