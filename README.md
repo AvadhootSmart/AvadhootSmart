@@ -45,4 +45,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AvadhootSmart&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://wakatime.com/@82134815-cba0-42e4-a371-0e3e42901c6e"><img src="https://wakatime.com/badge/user/82134815-cba0-42e4-a371-0e3e42901c6e.svg" alt="Total time coded since Sep 25 2024" /></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
