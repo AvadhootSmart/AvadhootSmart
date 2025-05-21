@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Developing Full Stack Web Applications using MERN<br>🤝 I’m looking to Collaborate with people who want do develop a FullStack Application<br>🌱 I’m currently learning about Data Structures and Algorithms <br>💬 Ask me about React, Express, NodeJs, C++<br>
 
-### 🌐 Socials
+# 🌐 Socials
 <p align="center"><a href="https://www.linkedin.com/in/avadhoot-smart/"><img src="https://skillicons.dev/icons?i=linkedin&perline=2" /></a><a href="https://twitter.com/avadhoot_smart"><img src="https://skillicons.dev/icons?i=twitter&perline=2" /></a></p>
 
 
