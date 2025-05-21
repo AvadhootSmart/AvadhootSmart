@@ -3,7 +3,7 @@
 
 # 🌐 Socials
 <p align="left">
-  <span style={{margin-right: 5px}}>
+  <span style={{margin-right: 10px}}>
 <a href="https://www.linkedin.com/in/avadhoot-smart/"><img src="https://skillicons.dev/icons?i=linkedin&perline=2" /></a>
   </span>
   <a href="https://twitter.com/avadhoot_smart"><img src="https://skillicons.dev/icons?i=twitter&perline=2" /></a></p>
