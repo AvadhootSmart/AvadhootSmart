@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing Full Stack Web Applications using MERN<br>🤝 I’m looking to Collaborate with people who want do develop a FullStack Application<br>🌱 I’m currently learning about Data Structures and Algorithms <br>💬 Ask me about React, Express, NodeJs, C++<br>
+🔭 Currently building full-stack products with Next.js, React, Node.js & Go  
+⚙️ Experienced in shipping production apps (multi-tenant SaaS, real-time systems, Dockerized backends)  
+🤝 Open to collaborating on ambitious full-stack / systems projects  
+🌱 Deepening my understanding of Low level systems and backend architecture  
+💬 Ask me about React, Next.js, TypeScript, Node/Express, Go, WebSockets, Docker, PostgreSQL, or C++
 
 # 🌐 Socials
 <p align="left">
